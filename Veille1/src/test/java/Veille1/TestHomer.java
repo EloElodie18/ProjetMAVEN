@@ -1,5 +1,5 @@
 package Veille1;
-import static org.junit.jupiter.api.Assertions.*; /*retrouver l'utilité et comment c'est arrivé là...*/
+import static org.junit.jupiter.api.Assertions.*; /*retrouver l'utilité et comment c'est arrivé là.....*/
 
 import org.junit.jupiter.api.Test;
 
